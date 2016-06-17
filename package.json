@@ -1,6 +1,6 @@
 {
   "name": "alfresco-logo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Produce a 25 character wide colored Alfresco logo",
   "main": "index.js",
   "bin": {
