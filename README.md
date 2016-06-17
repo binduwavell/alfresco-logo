@@ -1,6 +1,8 @@
 # alfresco-logo
 Produce a 25 character wide colored Alfresco logo
 
+![0](https://cloud.githubusercontent.com/assets/115754/16162604/ad57960c-3491-11e6-88f3-da014d7eef39.jpg)
+
 ## As a library
 
 In order to install this into your project you'll want to:
